@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "base_track": "Blood Flow",
+  "base_artist": "yama",
+  "createdAt": "2026-02-13T09:35:21.888580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blood Flow",
+      "artist": "Postiljonen",
+      "has_synced": true,
+      "path": "select/01_Blood_Flow_Postiljonen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blood Flow - Knuckles Mvt.",
+      "artist": "SEGA feat. Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/02_Blood_Flow_-_Knuckles_Mvt._SEGA_feat._Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blood Flow - Knuckles Mvt.",
+      "artist": "Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/03_Blood_Flow_-_Knuckles_Mvt._Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blood Flow - Knuckles Mvt.",
+      "artist": "SEGA SOUND TEAM & 大谷智哉",
+      "has_synced": true,
+      "path": "select/04_Blood_Flow_-_Knuckles_Mvt._SEGA_SOUND_TEAM_&_大谷智哉.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blood Flow - Knuckles Mvt.",
+      "artist": "SEGA SOUND TEAM & Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/05_Blood_Flow_-_Knuckles_Mvt._SEGA_SOUND_TEAM_&_Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blood Flow - Knuckles Mvt.",
+      "artist": "SEGA • Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/06_Blood_Flow_-_Knuckles_Mvt._SEGA_•_Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Watching the Blood Flow",
+      "artist": "Tuxedomoon",
+      "has_synced": true,
+      "path": "select/07_Watching_the_Blood_Flow_Tuxedomoon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let the Blood Flow",
+      "artist": "Denial Fiend",
+      "has_synced": false,
+      "path": "select/08_Let_the_Blood_Flow_Denial_Fiend.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blood Flow - Knuckles Mvt.",
+      "artist": "SEGA SOUND TEAM",
+      "has_synced": true,
+      "path": "select/09_Blood_Flow_-_Knuckles_Mvt._SEGA_SOUND_TEAM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blood Flow - Knuckles Mvt.",
+      "artist": "SEGA / Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/10_Blood_Flow_-_Knuckles_Mvt._SEGA___Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blood Flow - Knuckles Mvt.",
+      "artist": "SEGA",
+      "has_synced": true,
+      "path": "select/11_Blood_Flow_-_Knuckles_Mvt._SEGA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blood Flow Down My Wrist",
+      "artist": "Kay P",
+      "has_synced": false,
+      "path": "select/12_Blood_Flow_Down_My_Wrist_Kay_P.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blood Flow",
+      "artist": "School of X",
+      "has_synced": false,
+      "path": "select/13_Blood_Flow_School_of_X.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "血流 - Blood Flow",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/14_血流_-_Blood_Flow_yama.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blood Flow",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/15_Blood_Flow_yama.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blood Red And Goin' Down",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/16_Blood_Red_And_Goin'_Down_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blood Red And Goin' Down (Album Version)",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/17_Blood_Red_And_Goin'_Down_(Album_Version)_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Flesh and Blood",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/18_Flesh_and_Blood_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Flesh and Blood (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/19_Flesh_and_Blood_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Outlaw Blood",
+      "artist": "Ray Wylie Hubbard feat. Ashley McBryde",
+      "has_synced": false,
+      "path": "select/20_Outlaw_Blood_Ray_Wylie_Hubbard_feat._Ashley_McBryde.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Outlaw Blood",
+      "artist": "RAY WYLIE HUBBARD",
+      "has_synced": false,
+      "path": "select/21_Outlaw_Blood_RAY_WYLIE_HUBBARD.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "A Rush of Blood to the Head",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/22_A_Rush_of_Blood_to_the_Head_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Blood Thinner",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/23_Blood_Thinner_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "A Blood Red Path",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/24_A_Blood_Red_Path_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Bitch Blood",
+      "artist": "Spooks",
+      "has_synced": false,
+      "path": "select/25_Bitch_Blood_Spooks.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Blood",
+      "artist": "Karpe",
+      "has_synced": false,
+      "path": "select/26_Blood_Karpe.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Blood",
+      "artist": "Karpe Diem",
+      "has_synced": false,
+      "path": "select/27_Blood_Karpe_Diem.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Blood Diamondz",
+      "artist": "Sniper feat. Sexion d'Assaut",
+      "has_synced": true,
+      "path": "select/28_Blood_Diamondz_Sniper_feat._Sexion_d'Assaut.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Blood Diamondz Feat Sexion d'Assaut",
+      "artist": "Sniper",
+      "has_synced": true,
+      "path": "select/29_Blood_Diamondz_Feat_Sexion_d'Assaut_Sniper.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Blood in Blood Out",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/30_Blood_in_Blood_Out_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Blood In Blood Out",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/31_Blood_In_Blood_Out_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Blood Reign",
+      "artist": "Jedi Mind Tricks, DiamondBack, B.A. Barakus & Louis Logic",
+      "has_synced": false,
+      "path": "select/32_Blood_Reign_Jedi_Mind_Tricks,_DiamondBack,_B.A._Barakus_&_Louis_Logic.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Blood Reign ft. DiamondBack, Louis Logic and B.A. Barakus",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/33_Blood_Reign_ft._DiamondBack,_Louis_Logic_and_B.A._Barakus_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Blood Runs Cold",
+      "artist": "Jedi Mind Tricks feat. Sean Price aka Ruck of Heltah Skeltah",
+      "has_synced": true,
+      "path": "select/34_Blood_Runs_Cold_Jedi_Mind_Tricks_feat._Sean_Price_aka_Ruck_of_Heltah_Skeltah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blood Diamond",
+      "artist": "山下 智久",
+      "has_synced": false,
+      "path": "select/pl_01_Blood_Diamond_山下_智久.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Blood Diamond",
+      "artist": "山下 智久",
+      "has_synced": false,
+      "path": "select/pl_02_Blood_Diamond_山下_智久.txt"
+    }
+  ]
+}
